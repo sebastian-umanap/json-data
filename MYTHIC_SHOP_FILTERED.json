@@ -1,0 +1,78 @@
+[
+    {
+        "name": "MYTHIC_SHOPPE_FEATURED_25_8_EMOTE_V3",
+        "description": "Emote V3 (25.8)",
+        "startDate": "2025-04-30T18:00:00Z",
+        "endDate": "2025-06-25T18:00:00Z",
+        "items": [
+            "Judgment Passed"
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_FEATURED_25_8_NF_V3",
+        "description": "Nexus Finisher V2 (25.8)",
+        "startDate": "2025-04-16T19:00:00Z",
+        "endDate": "2025-06-25T18:00:00Z",
+        "items": [
+            "The Reckoner"
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_BIWEEKLY_ROTATION_V11",
+        "description": "25.S1.4 - Biweekly - Random skins x12",
+        "startDate": "2025-04-16T19:00:00Z",
+        "endDate": "2025-04-30T19:00:00Z",
+        "items": [
+            "Prestige Empyrean K'Sante",
+            "Prestige La Ilusión Renata Glasc",
+            "Prestige Soul Fighter Shaco",
+            "Crystalis Indomitus Kha'Zix",
+            "Prestige Battle Queen Diana",
+            "Prestige HEARTSTEEL Yone",
+            "Prestige Arcanist Zoe",
+            "Hextech Swain",
+            "Prestige K/DA Ahri",
+            "Hextech Malzahar",
+            "Crystalis Motus Ashe",
+            "Prestige Coven Zyra"
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_DAILY_ROTATION_V4",
+        "description": "25.10 - Daily\nRandom accessory x4",
+        "startDate": "2025-05-14T18:00:00Z",
+        "endDate": "2025-05-15T18:00:00Z",
+        "items": [
+            "Mythmaker Irelia Chroma Icon",
+            "Crime City Nightmare Akali Chroma Icon",
+            "Space Groove Nunu Chroma Icon",
+            "Empyrean Lux Chroma Icon"
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_FEATURED_25_8_V1",
+        "description": "Prestige Battle Academia Qiyana with Border Icon Bundle (25.8)",
+        "startDate": "2025-03-31T00:00:00Z",
+        "endDate": "2025-08-13T00:00:00Z",
+        "items": [
+            "Prestige Battle Academia Qiyana",
+            "prestige_edition_battle_academia_qiyana_border_icon"
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_WEEKLY_ROTATION_V5",
+        "description": "25.S1.4 - Weekly\n\nChromas x8",
+        "startDate": "2025-03-05T00:00:00Z",
+        "endDate": "2025-03-12T00:00:00Z",
+        "items": [
+            "High Noon Mordekaiser",
+            "Winterblessed Sylas",
+            "Ruined Pantheon",
+            "Old God Malphite",
+            "Faerie Queen Karma",
+            "Sugar Rush Zilean",
+            "Debonair Malzahar",
+            "Eternal Dragon Brand"
+        ]
+    }
+]
