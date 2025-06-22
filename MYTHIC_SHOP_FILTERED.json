@@ -68,52 +68,6 @@
         ]
     },
     {
-        "name": "MYTHIC_SHOPPE_FEATURED_25_8_V1",
-        "description": "Prestige Battle Academia Qiyana with Border Icon Bundle (25.8)",
-        "startDate": "2025-03-31T00:00:00.000Z",
-        "endDate": "2025-08-13T00:00:00Z",
-        "items": [
-            {
-                "name": "Prestige Battle Academia Qiyana",
-                "id": "7a79794c-5a78-4333-884c-4a70c99bf6f3",
-                "price": 150
-            },
-            {
-                "name": "prestige_edition_battle_academia_qiyana_border_icon",
-                "id": "9d537496-8d17-4fc2-ab3b-c88ccfb772fa",
-                "price": null
-            }
-        ]
-    },
-    {
-        "name": "MYTHIC_SHOPPE_DAILY_ROTATION_V4",
-        "description": "25.10 - Daily\nRandom accessory x4",
-        "startDate": "2025-05-14T18:00:00.000Z",
-        "endDate": "2025-05-15T18:00:00Z",
-        "items": [
-            {
-                "name": "Spirit Blossom Ahri Chroma Icon",
-                "id": "fda7e068-8005-4fe6-b634-dedba5c5b016",
-                "price": 5
-            },
-            {
-                "name": "Winterblessed Mythic Essence Icon",
-                "id": "60d56751-cf7d-4cea-9cf7-033b78580d0c",
-                "price": 5
-            },
-            {
-                "name": "Space Groove Blitz & Crank Chroma Icon",
-                "id": "9d01fff4-fe8e-4d34-938f-71a48296c9dc",
-                "price": 5
-            },
-            {
-                "name": "Lunar Empress Ashe Chroma Icon",
-                "id": "1ae2f1b6-3d7f-400a-b741-f0d4f52f72a0",
-                "price": 5
-            }
-        ]
-    },
-    {
         "name": "MYTHIC_SHOPPE_FEATURED_25_8_EMOTE_V3",
         "description": "Emote V3 (25.8)",
         "startDate": "2025-04-30T18:00:00.000Z",
@@ -123,19 +77,6 @@
                 "name": "Judgment Passed",
                 "id": "0c9358ea-083d-44dd-8c9a-c5acedab65a6",
                 "price": 25
-            }
-        ]
-    },
-    {
-        "name": "MYTHIC_SHOPPE_FEATURED_25_8_NF_V3",
-        "description": "Nexus Finisher V2 (25.8)",
-        "startDate": "2025-04-16T19:00:00.000Z",
-        "endDate": "2025-06-25T18:00:00Z",
-        "items": [
-            {
-                "name": "The Reckoner",
-                "id": "af26ff11-d981-4453-8908-097b72b5b451",
-                "price": 250
             }
         ]
     },
@@ -184,6 +125,65 @@
                 "name": "Firecracker Teemo",
                 "id": "7eae63db-6ca6-483a-b9f0-92f26c00dd58",
                 "price": 35
+            }
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_DAILY_ROTATION_V4",
+        "description": "25.10 - Daily\nRandom accessory x4",
+        "startDate": "2025-05-14T18:00:00.000Z",
+        "endDate": "2025-05-15T18:00:00Z",
+        "items": [
+            {
+                "name": "Faerie Court Milio Chroma Icon",
+                "id": "058fda39-dc5b-4a66-977e-a1e009ffebac",
+                "price": 5
+            },
+            {
+                "name": "Brave Phoenix Xayah Chroma Icon",
+                "id": "a45643a4-11b8-4cdf-8c5a-5673b402660d",
+                "price": 5
+            },
+            {
+                "name": "Star Guardian Sona Chroma Icon",
+                "id": "6e2d327c-9a9c-4a9b-b8ee-6fb39be331e7",
+                "price": 5
+            },
+            {
+                "name": "Winterblessed Lucian Chroma Icon",
+                "id": "8351cd2f-6e35-4c1a-bd17-413f3c89680c",
+                "price": 5
+            }
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_FEATURED_25_8_NF_V3",
+        "description": "Nexus Finisher V2 (25.8)",
+        "startDate": "2025-04-16T19:00:00.000Z",
+        "endDate": "2025-06-25T18:00:00Z",
+        "items": [
+            {
+                "name": "The Reckoner",
+                "id": "af26ff11-d981-4453-8908-097b72b5b451",
+                "price": 250
+            }
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_FEATURED_25_8_V1",
+        "description": "Prestige Battle Academia Qiyana with Border Icon Bundle (25.8)",
+        "startDate": "2025-03-31T00:00:00.000Z",
+        "endDate": "2025-08-13T00:00:00Z",
+        "items": [
+            {
+                "name": "Prestige Battle Academia Qiyana",
+                "id": "7a79794c-5a78-4333-884c-4a70c99bf6f3",
+                "price": 150
+            },
+            {
+                "name": "prestige_edition_battle_academia_qiyana_border_icon",
+                "id": "9d537496-8d17-4fc2-ab3b-c88ccfb772fa",
+                "price": null
             }
         ]
     }
