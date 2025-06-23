@@ -1,69 +1,29 @@
 [
     {
-        "name": "MYTHIC_SHOPPE_BIWEEKLY_ROTATION_V11",
-        "description": "25.S1.4 - Biweekly - Random skins x12",
-        "startDate": "2025-04-16T19:00:00.000Z",
-        "endDate": "2025-04-30T19:00:00Z",
+        "name": "MYTHIC_SHOPPE_DAILY_ROTATION_V4",
+        "description": "25.10 - Daily\nRandom accessory x4",
+        "startDate": "2025-05-14T18:00:00.000Z",
+        "endDate": "2025-05-15T18:00:00Z",
         "items": [
             {
-                "name": "Hextech Malzahar",
-                "id": "db3ac8d7-7dc7-42b5-bb98-527e20859b7e",
-                "price": 125
+                "name": "Empyrean Lux Chroma Icon",
+                "id": "6f0a4a4c-eaaa-4aec-a08e-afd9ec9b658c",
+                "price": 5
             },
             {
-                "name": "Prestige Star Guardian Neeko",
-                "id": "580f83cf-32de-49b8-9016-84dc4830f460",
-                "price": 150
+                "name": "Mecha Kingdoms Draven Chroma Icon",
+                "id": "91c0cd2c-c32f-477e-9094-fb034f23c850",
+                "price": 5
             },
             {
-                "name": "Prestige Fright Night Zeri",
-                "id": "15e51476-b123-47b6-bbed-dd84928afa3a",
-                "price": 150
+                "name": "Dour Dude",
+                "id": "7d4f7538-19d9-4126-9ce6-4768d0f045a7",
+                "price": 25
             },
             {
-                "name": "Hextech Jarvan IV",
-                "id": "99fb3f47-460b-451d-94c3-332392d3c444",
-                "price": 125
-            },
-            {
-                "name": "Hextech Ziggs",
-                "id": "ee2d3683-43c9-4401-9ccf-d36f5b344577",
-                "price": 125
-            },
-            {
-                "name": "Prestige Arcane Commander Caitlyn",
-                "id": "de853333-4a7b-454b-bc7b-027eb46058fd",
-                "price": 150
-            },
-            {
-                "name": "Crystalis Indomitus Nautilus",
-                "id": "e2235795-46f9-4b09-a063-497663c477e5",
-                "price": 125
-            },
-            {
-                "name": "Prestige Battle Cat Jinx",
-                "id": "f2e76da4-4568-4779-bb5f-1be7007689aa",
-                "price": 150
-            },
-            {
-                "name": "Crystalis Indomitus Xerath",
-                "id": "8e429091-beb3-47fb-af65-907bd0e2a1fe",
-                "price": 125
-            },
-            {
-                "name": "Prestige Coven Zyra",
-                "id": "a2d57756-c43a-46bf-a89f-36c6610b647a",
-                "price": 150
-            },
-            {
-                "name": "Prestige Space Groove Nami",
-                "id": "712ca23a-43ad-4e64-8462-4ce49e690d20",
-                "price": 150
-            },
-            {
-                "name": "Prestige Battle Academia Lux",
-                "id": "7fb0ddc2-ed13-4b7e-8cc9-f01bc9c784de",
-                "price": 150
+                "name": "Watch Yourself",
+                "id": "81f28d14-4c6e-4703-95db-dfd32d9f6025",
+                "price": 25
             }
         ]
     },
@@ -129,34 +89,6 @@
         ]
     },
     {
-        "name": "MYTHIC_SHOPPE_DAILY_ROTATION_V4",
-        "description": "25.10 - Daily\nRandom accessory x4",
-        "startDate": "2025-05-14T18:00:00.000Z",
-        "endDate": "2025-05-15T18:00:00Z",
-        "items": [
-            {
-                "name": "Faerie Court Milio Chroma Icon",
-                "id": "058fda39-dc5b-4a66-977e-a1e009ffebac",
-                "price": 5
-            },
-            {
-                "name": "Brave Phoenix Xayah Chroma Icon",
-                "id": "a45643a4-11b8-4cdf-8c5a-5673b402660d",
-                "price": 5
-            },
-            {
-                "name": "Star Guardian Sona Chroma Icon",
-                "id": "6e2d327c-9a9c-4a9b-b8ee-6fb39be331e7",
-                "price": 5
-            },
-            {
-                "name": "Winterblessed Lucian Chroma Icon",
-                "id": "8351cd2f-6e35-4c1a-bd17-413f3c89680c",
-                "price": 5
-            }
-        ]
-    },
-    {
         "name": "MYTHIC_SHOPPE_FEATURED_25_8_NF_V3",
         "description": "Nexus Finisher V2 (25.8)",
         "startDate": "2025-04-16T19:00:00.000Z",
@@ -184,6 +116,74 @@
                 "name": "prestige_edition_battle_academia_qiyana_border_icon",
                 "id": "9d537496-8d17-4fc2-ab3b-c88ccfb772fa",
                 "price": null
+            }
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_BIWEEKLY_ROTATION_V11",
+        "description": "25.S1.4 - Biweekly - Random skins x12",
+        "startDate": "2025-04-16T19:00:00.000Z",
+        "endDate": "2025-04-30T19:00:00Z",
+        "items": [
+            {
+                "name": "Hextech Malzahar",
+                "id": "db3ac8d7-7dc7-42b5-bb98-527e20859b7e",
+                "price": 125
+            },
+            {
+                "name": "Prestige Star Guardian Neeko",
+                "id": "580f83cf-32de-49b8-9016-84dc4830f460",
+                "price": 150
+            },
+            {
+                "name": "Prestige Fright Night Zeri",
+                "id": "15e51476-b123-47b6-bbed-dd84928afa3a",
+                "price": 150
+            },
+            {
+                "name": "Hextech Jarvan IV",
+                "id": "99fb3f47-460b-451d-94c3-332392d3c444",
+                "price": 125
+            },
+            {
+                "name": "Hextech Ziggs",
+                "id": "ee2d3683-43c9-4401-9ccf-d36f5b344577",
+                "price": 125
+            },
+            {
+                "name": "Prestige Arcane Commander Caitlyn",
+                "id": "de853333-4a7b-454b-bc7b-027eb46058fd",
+                "price": 150
+            },
+            {
+                "name": "Crystalis Indomitus Nautilus",
+                "id": "e2235795-46f9-4b09-a063-497663c477e5",
+                "price": 125
+            },
+            {
+                "name": "Prestige Battle Cat Jinx",
+                "id": "f2e76da4-4568-4779-bb5f-1be7007689aa",
+                "price": 150
+            },
+            {
+                "name": "Crystalis Indomitus Xerath",
+                "id": "8e429091-beb3-47fb-af65-907bd0e2a1fe",
+                "price": 125
+            },
+            {
+                "name": "Prestige Coven Zyra",
+                "id": "a2d57756-c43a-46bf-a89f-36c6610b647a",
+                "price": 150
+            },
+            {
+                "name": "Prestige Space Groove Nami",
+                "id": "712ca23a-43ad-4e64-8462-4ce49e690d20",
+                "price": 150
+            },
+            {
+                "name": "Prestige Battle Academia Lux",
+                "id": "7fb0ddc2-ed13-4b7e-8cc9-f01bc9c784de",
+                "price": 150
             }
         ]
     }
