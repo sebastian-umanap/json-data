@@ -6,98 +6,37 @@
         "endDate": "2025-05-15T18:00:00Z",
         "items": [
             {
+                "name": "Dawnbringer Nidalee Chroma Icon",
+                "id": "66f08450-6030-44d3-83ee-d19b59d8731d",
+                "price": 5
+            },
+            {
+                "name": "PsyOps Shen Chroma Icon",
+                "id": "4a1e61a9-5b1f-497b-a8fd-59c1b25f5d23",
+                "price": 5
+            },
+            {
                 "name": "Empyrean Lux Chroma Icon",
                 "id": "6f0a4a4c-eaaa-4aec-a08e-afd9ec9b658c",
                 "price": 5
             },
             {
-                "name": "Mecha Kingdoms Draven Chroma Icon",
-                "id": "91c0cd2c-c32f-477e-9094-fb034f23c850",
+                "name": "Inkshadow Amethyst Icon",
+                "id": "038b031b-ab02-4515-a1db-3565cfbec283",
                 "price": 5
-            },
-            {
-                "name": "Dour Dude",
-                "id": "7d4f7538-19d9-4126-9ce6-4768d0f045a7",
-                "price": 25
-            },
-            {
-                "name": "Watch Yourself",
-                "id": "81f28d14-4c6e-4703-95db-dfd32d9f6025",
-                "price": 25
             }
         ]
     },
     {
-        "name": "MYTHIC_SHOPPE_FEATURED_25_8_EMOTE_V3",
-        "description": "Emote V3 (25.8)",
-        "startDate": "2025-04-30T18:00:00.000Z",
-        "endDate": "2025-06-25T18:00:00Z",
+        "name": "MYTHIC_SHOPPE_FEATURED_25_13_EMOTE_V1",
+        "description": "Spirit Blossom Morgana Emote V1 (25.13)",
+        "startDate": "2025-06-25T18:00:00.000Z",
+        "endDate": "2025-08-27T18:00:00Z",
         "items": [
             {
-                "name": "Judgment Passed",
-                "id": "0c9358ea-083d-44dd-8c9a-c5acedab65a6",
+                "name": "In The Palm Of My Hand",
+                "id": "577ab3f6-56b2-4af3-9d2a-87aa36ba32d8",
                 "price": 25
-            }
-        ]
-    },
-    {
-        "name": "MYTHIC_SHOPPE_WEEKLY_ROTATION_V5",
-        "description": "25.S1.4 - Weekly\n\nChromas x8",
-        "startDate": "2025-03-05T00:00:00.000Z",
-        "endDate": "2025-03-12T00:00:00Z",
-        "items": [
-            {
-                "name": "Challenger Ahri",
-                "id": "00319c18-ab33-41d4-aa15-00b718fd1d71",
-                "price": 35
-            },
-            {
-                "name": "Battle Bunny Miss Fortune",
-                "id": "c80b75cf-83b7-4652-a497-b1e76040d224",
-                "price": 35
-            },
-            {
-                "name": "Faerie Court Ezreal",
-                "id": "19394aff-4dd8-414c-a331-ca2c530ec95a",
-                "price": 35
-            },
-            {
-                "name": "Winterblessed Annie",
-                "id": "06dbb3ac-9092-445b-9ce1-86b229a620e9",
-                "price": 35
-            },
-            {
-                "name": "PROJECT: Renekton",
-                "id": "738e4607-48cd-4ec7-a1bc-4c90122618f4",
-                "price": 35
-            },
-            {
-                "name": "PROJECT: Pyke",
-                "id": "d1dbcd84-38a1-4e9c-9fb2-33c52d67c0c5",
-                "price": 35
-            },
-            {
-                "name": "Odyssey Sivir",
-                "id": "28544e86-e859-4727-90bf-c1958ea5b4b9",
-                "price": 35
-            },
-            {
-                "name": "Firecracker Teemo",
-                "id": "7eae63db-6ca6-483a-b9f0-92f26c00dd58",
-                "price": 35
-            }
-        ]
-    },
-    {
-        "name": "MYTHIC_SHOPPE_FEATURED_25_8_NF_V3",
-        "description": "Nexus Finisher V2 (25.8)",
-        "startDate": "2025-04-16T19:00:00.000Z",
-        "endDate": "2025-06-25T18:00:00Z",
-        "items": [
-            {
-                "name": "The Reckoner",
-                "id": "af26ff11-d981-4453-8908-097b72b5b451",
-                "price": 250
             }
         ]
     },
@@ -184,6 +123,67 @@
                 "name": "Prestige Battle Academia Lux",
                 "id": "7fb0ddc2-ed13-4b7e-8cc9-f01bc9c784de",
                 "price": 150
+            }
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_WEEKLY_ROTATION_V5",
+        "description": "25.S1.4 - Weekly\n\nChromas x8",
+        "startDate": "2025-03-05T00:00:00.000Z",
+        "endDate": "2025-03-12T00:00:00Z",
+        "items": [
+            {
+                "name": "Debonair Malzahar",
+                "id": "af896674-a40d-4699-894f-1ac34828280b",
+                "price": 35
+            },
+            {
+                "name": "Lunar Wraith Caitlyn",
+                "id": "33cc8b5b-741c-40eb-b190-a2ff78407bd9",
+                "price": 35
+            },
+            {
+                "name": "Faerie Court Milio",
+                "id": "2a14c455-c733-4ce6-88e5-60e51a67fe8d",
+                "price": 35
+            },
+            {
+                "name": "Winterblessed Hwei",
+                "id": "e228b48a-7ab8-4d86-aafa-d93a15ed1345",
+                "price": 35
+            },
+            {
+                "name": "Graceful Phoenix Seraphine",
+                "id": "2d19fae7-3235-434c-9a32-94ebcb2dfda7",
+                "price": 35
+            },
+            {
+                "name": "Elderwood Xayah",
+                "id": "78d2f736-b9c8-4482-b630-a0dbef7a7c97",
+                "price": 35
+            },
+            {
+                "name": "Inkshadow Udyr",
+                "id": "2c6799a4-de6d-4107-8080-a666a637a398",
+                "price": 35
+            },
+            {
+                "name": "Lunar Guardian Kha'Zix",
+                "id": "ca93ad70-4658-44e8-8d55-607ee96c97a6",
+                "price": 35
+            }
+        ]
+    },
+    {
+        "name": "MYTHIC_SHOPPE_FEATURED_25_13_NF_V1",
+        "description": "In Bloom Nexus Finisher V1 (25.13)",
+        "startDate": "2025-06-25T18:00:00.000Z",
+        "endDate": "2025-08-27T18:00:00Z",
+        "items": [
+            {
+                "name": "In Bloom",
+                "id": "7f7451f5-df0c-4747-b0c5-67a9dba07ed4",
+                "price": 250
             }
         ]
     }
